@@ -5,6 +5,8 @@ using namespace std;
 int main(){
     // this is a comment
     // cout<< "Hello World!";
+
+    // int, long 10e-12 to 10e12, long long 10e-18to 10e18, double;
     int x = 10;
 
     long long v;
